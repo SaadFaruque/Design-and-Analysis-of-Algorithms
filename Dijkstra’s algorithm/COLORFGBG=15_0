@@ -1,0 +1,1385 @@
+
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 3 4 5 6 7 8 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 4 5 6 7 8 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 1 5 6 7 8 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 1 1 6 7 8 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 1 1 1 7 8 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 1 1 1 1 8 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 1 1 1 1 1 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 1 1 1 1 1 
+bestCostAry is:
+0 9 5 19 29 99999 99999 99999 
+markedAry is:
+1 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 1 1 1 1 
+bestCostAry is:
+0 9 5 10 29 99999 99999 99999 
+markedAry is:
+1 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 1 1 3 1 
+bestCostAry is:
+0 9 5 10 29 99999 33 99999 
+markedAry is:
+1 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 1 1 3 3 
+bestCostAry is:
+0 9 5 10 29 99999 33 14 
+markedAry is:
+1 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 1 1 3 3 
+bestCostAry is:
+0 9 5 10 29 99999 33 14 
+markedAry is:
+1 1 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 1 1 3 2 
+bestCostAry is:
+0 9 5 10 29 99999 33 11 
+markedAry is:
+1 1 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 1 1 3 2 
+bestCostAry is:
+0 9 5 10 29 99999 33 11 
+markedAry is:
+1 1 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 4 1 3 2 
+bestCostAry is:
+0 9 5 10 18 99999 33 11 
+markedAry is:
+1 1 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 4 4 3 2 
+bestCostAry is:
+0 9 5 10 18 13 33 11 
+markedAry is:
+1 1 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 4 4 3 2 
+bestCostAry is:
+0 9 5 10 18 13 33 11 
+markedAry is:
+1 1 1 1 0 0 0 1 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 4 4 8 2 
+bestCostAry is:
+0 9 5 10 18 13 13 11 
+markedAry is:
+1 1 1 1 0 0 0 1 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 4 4 8 2 
+bestCostAry is:
+0 9 5 10 18 13 13 11 
+markedAry is:
+1 1 1 1 0 1 0 1 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 4 4 8 2 
+bestCostAry is:
+0 9 5 10 18 13 13 11 
+markedAry is:
+1 1 1 1 0 1 1 1 
+*****************************
+ sourceNode is: 1
+fatherAry is:
+1 1 1 3 4 4 8 2 
+bestCostAry is:
+0 9 5 10 18 13 13 11 
+markedAry is:
+1 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 2 4 5 6 7 8 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 2 2 5 6 7 8 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 2 2 2 6 7 8 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 2 2 2 2 7 8 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 2 2 2 2 2 8 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 2 2 2 2 2 2 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 0 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+2 2 2 2 2 2 2 2 
+bestCostAry is:
+99999 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 2 2 2 2 2 
+bestCostAry is:
+8 0 99999 99999 99999 99999 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 2 2 8 2 2 
+bestCostAry is:
+8 0 99999 99999 99999 9 99999 2 
+markedAry is:
+0 1 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 2 2 8 8 2 
+bestCostAry is:
+8 0 99999 99999 99999 9 4 2 
+markedAry is:
+0 1 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 2 2 8 8 2 
+bestCostAry is:
+8 0 99999 99999 99999 9 4 2 
+markedAry is:
+0 1 0 0 0 0 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 7 2 8 8 2 
+bestCostAry is:
+8 0 99999 8 99999 9 4 2 
+markedAry is:
+0 1 0 0 0 0 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 7 2 7 8 2 
+bestCostAry is:
+8 0 99999 8 99999 7 4 2 
+markedAry is:
+0 1 0 0 0 0 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 7 2 7 8 2 
+bestCostAry is:
+8 0 99999 8 99999 7 4 2 
+markedAry is:
+0 1 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 2 7 2 7 8 2 
+bestCostAry is:
+8 0 99999 8 99999 7 4 2 
+markedAry is:
+1 1 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 1 7 2 7 8 2 
+bestCostAry is:
+8 0 13 8 99999 7 4 2 
+markedAry is:
+1 1 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 1 7 1 7 8 2 
+bestCostAry is:
+8 0 13 8 37 7 4 2 
+markedAry is:
+1 1 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 1 7 1 7 8 2 
+bestCostAry is:
+8 0 13 8 37 7 4 2 
+markedAry is:
+1 1 0 1 0 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 1 7 4 7 8 2 
+bestCostAry is:
+8 0 13 8 16 7 4 2 
+markedAry is:
+1 1 0 1 0 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 1 7 4 7 8 2 
+bestCostAry is:
+8 0 13 8 16 7 4 2 
+markedAry is:
+1 1 1 1 0 1 1 1 
+*****************************
+ sourceNode is: 2
+fatherAry is:
+8 2 1 7 4 7 8 2 
+bestCostAry is:
+8 0 13 8 16 7 4 2 
+markedAry is:
+1 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 4 5 6 7 8 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 5 6 7 8 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 3 6 7 8 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 3 3 7 8 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 3 3 3 8 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 3 3 3 3 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 0 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 3 3 3 3 
+bestCostAry is:
+99999 7 0 5 99999 99999 28 9 
+markedAry is:
+0 0 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 4 3 3 3 
+bestCostAry is:
+99999 7 0 5 13 99999 28 9 
+markedAry is:
+0 0 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 4 4 3 3 
+bestCostAry is:
+99999 7 0 5 13 8 28 9 
+markedAry is:
+0 0 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 4 4 3 3 
+bestCostAry is:
+99999 7 0 5 13 8 28 9 
+markedAry is:
+0 1 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 4 4 3 2 
+bestCostAry is:
+99999 7 0 5 13 8 28 9 
+markedAry is:
+0 1 1 1 0 0 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+3 3 3 3 4 4 3 2 
+bestCostAry is:
+99999 7 0 5 13 8 28 9 
+markedAry is:
+0 1 1 1 0 1 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+6 3 3 3 4 4 3 2 
+bestCostAry is:
+14 7 0 5 13 8 28 9 
+markedAry is:
+0 1 1 1 0 1 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+6 3 3 3 4 4 6 2 
+bestCostAry is:
+14 7 0 5 13 8 12 9 
+markedAry is:
+0 1 1 1 0 1 0 0 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+6 3 3 3 4 4 6 2 
+bestCostAry is:
+14 7 0 5 13 8 12 9 
+markedAry is:
+0 1 1 1 0 1 0 1 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+6 3 3 3 4 4 8 2 
+bestCostAry is:
+14 7 0 5 13 8 11 9 
+markedAry is:
+0 1 1 1 0 1 0 1 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+6 3 3 3 4 4 8 2 
+bestCostAry is:
+14 7 0 5 13 8 11 9 
+markedAry is:
+0 1 1 1 0 1 1 1 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+6 3 3 3 4 4 8 2 
+bestCostAry is:
+14 7 0 5 13 8 11 9 
+markedAry is:
+0 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 3
+fatherAry is:
+6 3 3 3 4 4 8 2 
+bestCostAry is:
+14 7 0 5 13 8 11 9 
+markedAry is:
+1 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 4 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 4 4 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 4 4 4 4 6 7 8 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 4 4 4 4 4 7 8 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 4 4 4 4 4 4 8 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 4 4 4 4 4 4 4 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 0 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+4 4 4 4 4 4 4 4 
+bestCostAry is:
+99999 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 1 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 4 4 4 4 4 4 4 
+bestCostAry is:
+9 99999 99999 0 8 3 99999 99999 
+markedAry is:
+0 0 0 1 0 1 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 4 4 4 4 4 6 4 
+bestCostAry is:
+9 99999 99999 0 8 3 7 99999 
+markedAry is:
+0 0 0 1 0 1 0 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 4 4 4 4 4 6 4 
+bestCostAry is:
+9 99999 99999 0 8 3 7 99999 
+markedAry is:
+0 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 4 4 4 4 4 6 4 
+bestCostAry is:
+9 99999 99999 0 8 3 7 99999 
+markedAry is:
+0 0 0 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 4 4 4 4 4 6 4 
+bestCostAry is:
+9 99999 99999 0 8 3 7 99999 
+markedAry is:
+1 0 0 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 1 4 4 4 4 6 4 
+bestCostAry is:
+9 18 99999 0 8 3 7 99999 
+markedAry is:
+1 0 0 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 1 1 4 4 4 6 4 
+bestCostAry is:
+9 18 14 0 8 3 7 99999 
+markedAry is:
+1 0 0 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 1 1 4 4 4 6 4 
+bestCostAry is:
+9 18 14 0 8 3 7 99999 
+markedAry is:
+1 0 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 1 1 4 4 4 6 3 
+bestCostAry is:
+9 18 14 0 8 3 7 23 
+markedAry is:
+1 0 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 1 1 4 4 4 6 3 
+bestCostAry is:
+9 18 14 0 8 3 7 23 
+markedAry is:
+1 1 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 1 1 4 4 4 6 2 
+bestCostAry is:
+9 18 14 0 8 3 7 20 
+markedAry is:
+1 1 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 4
+fatherAry is:
+6 1 1 4 4 4 6 2 
+bestCostAry is:
+9 18 14 0 8 3 7 20 
+markedAry is:
+1 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 5 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 5 5 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 5 5 5 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 5 5 5 5 5 7 8 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 5 5 5 5 5 5 8 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 5 5 5 5 5 5 5 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 0 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+5 5 5 5 5 5 5 5 
+bestCostAry is:
+99999 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 1 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 5 5 5 5 5 5 5 
+bestCostAry is:
+20 99999 99999 99999 0 14 99999 99999 
+markedAry is:
+0 0 0 0 1 1 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 5 5 5 5 5 6 5 
+bestCostAry is:
+20 99999 99999 99999 0 14 18 99999 
+markedAry is:
+0 0 0 0 1 1 0 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 5 5 5 5 5 6 5 
+bestCostAry is:
+20 99999 99999 99999 0 14 18 99999 
+markedAry is:
+0 0 0 0 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 5 5 7 5 5 6 5 
+bestCostAry is:
+20 99999 99999 22 0 14 18 99999 
+markedAry is:
+0 0 0 0 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 5 5 7 5 5 6 5 
+bestCostAry is:
+20 99999 99999 22 0 14 18 99999 
+markedAry is:
+1 0 0 0 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 5 7 5 5 6 5 
+bestCostAry is:
+20 29 99999 22 0 14 18 99999 
+markedAry is:
+1 0 0 0 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 1 7 5 5 6 5 
+bestCostAry is:
+20 29 25 22 0 14 18 99999 
+markedAry is:
+1 0 0 0 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 1 7 5 5 6 5 
+bestCostAry is:
+20 29 25 22 0 14 18 99999 
+markedAry is:
+1 0 0 1 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 1 7 5 5 6 5 
+bestCostAry is:
+20 29 25 22 0 14 18 99999 
+markedAry is:
+1 0 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 1 7 5 5 6 3 
+bestCostAry is:
+20 29 25 22 0 14 18 34 
+markedAry is:
+1 0 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 1 7 5 5 6 3 
+bestCostAry is:
+20 29 25 22 0 14 18 34 
+markedAry is:
+1 1 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 1 7 5 5 6 2 
+bestCostAry is:
+20 29 25 22 0 14 18 31 
+markedAry is:
+1 1 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 5
+fatherAry is:
+6 1 1 7 5 5 6 2 
+bestCostAry is:
+20 29 25 22 0 14 18 31 
+markedAry is:
+1 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 2 3 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 3 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 6 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 6 6 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 6 6 6 6 8 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 6 6 6 6 6 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 0 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 6 6 6 6 6 
+bestCostAry is:
+6 99999 99999 99999 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 7 6 6 6 6 
+bestCostAry is:
+6 99999 99999 8 99999 0 4 99999 
+markedAry is:
+0 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 6 6 7 6 6 6 6 
+bestCostAry is:
+6 99999 99999 8 99999 0 4 99999 
+markedAry is:
+1 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 6 7 6 6 6 6 
+bestCostAry is:
+6 15 99999 8 99999 0 4 99999 
+markedAry is:
+1 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 6 6 6 6 
+bestCostAry is:
+6 15 11 8 99999 0 4 99999 
+markedAry is:
+1 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 1 6 6 6 
+bestCostAry is:
+6 15 11 8 35 0 4 99999 
+markedAry is:
+1 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 1 6 6 6 
+bestCostAry is:
+6 15 11 8 35 0 4 99999 
+markedAry is:
+1 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 4 6 6 6 
+bestCostAry is:
+6 15 11 8 16 0 4 99999 
+markedAry is:
+1 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 4 6 6 6 
+bestCostAry is:
+6 15 11 8 16 0 4 99999 
+markedAry is:
+1 0 1 1 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 4 6 6 3 
+bestCostAry is:
+6 15 11 8 16 0 4 20 
+markedAry is:
+1 0 1 1 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 4 6 6 3 
+bestCostAry is:
+6 15 11 8 16 0 4 20 
+markedAry is:
+1 1 1 1 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 4 6 6 2 
+bestCostAry is:
+6 15 11 8 16 0 4 17 
+markedAry is:
+1 1 1 1 0 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 4 6 6 2 
+bestCostAry is:
+6 15 11 8 16 0 4 17 
+markedAry is:
+1 1 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 6
+fatherAry is:
+6 1 1 7 4 6 6 2 
+bestCostAry is:
+6 15 11 8 16 0 4 17 
+markedAry is:
+1 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 2 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 7 3 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 7 7 4 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 7 7 7 5 6 7 8 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 7 7 7 7 6 7 8 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 7 7 7 7 7 7 8 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 7 7 7 7 7 7 7 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 0 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+7 7 7 7 7 7 7 7 
+bestCostAry is:
+99999 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 7 7 7 7 7 7 7 
+bestCostAry is:
+9 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 0 0 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 7 7 7 7 7 7 7 
+bestCostAry is:
+9 99999 99999 4 99999 3 0 99999 
+markedAry is:
+0 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 7 7 7 4 7 7 7 
+bestCostAry is:
+9 99999 99999 4 12 3 0 99999 
+markedAry is:
+0 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 7 7 7 4 7 7 7 
+bestCostAry is:
+9 99999 99999 4 12 3 0 99999 
+markedAry is:
+1 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 7 7 4 7 7 7 
+bestCostAry is:
+9 18 99999 4 12 3 0 99999 
+markedAry is:
+1 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 1 7 4 7 7 7 
+bestCostAry is:
+9 18 14 4 12 3 0 99999 
+markedAry is:
+1 0 0 1 0 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 1 7 4 7 7 7 
+bestCostAry is:
+9 18 14 4 12 3 0 99999 
+markedAry is:
+1 0 0 1 1 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 1 7 4 7 7 7 
+bestCostAry is:
+9 18 14 4 12 3 0 99999 
+markedAry is:
+1 0 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 1 7 4 7 7 3 
+bestCostAry is:
+9 18 14 4 12 3 0 23 
+markedAry is:
+1 0 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 1 7 4 7 7 3 
+bestCostAry is:
+9 18 14 4 12 3 0 23 
+markedAry is:
+1 1 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 1 7 4 7 7 2 
+bestCostAry is:
+9 18 14 4 12 3 0 20 
+markedAry is:
+1 1 1 1 1 1 1 0 
+*****************************
+ sourceNode is: 7
+fatherAry is:
+6 1 1 7 4 7 7 2 
+bestCostAry is:
+9 18 14 4 12 3 0 20 
+markedAry is:
+1 1 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+1 2 3 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 2 3 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 3 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 4 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 8 5 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 8 8 6 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 8 8 8 7 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 8 8 8 8 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 0 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 8 8 8 8 8 
+bestCostAry is:
+6 99999 99999 99999 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 7 8 8 8 8 
+bestCostAry is:
+6 99999 99999 6 99999 7 2 0 
+markedAry is:
+0 0 0 0 0 0 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 7 8 7 8 8 
+bestCostAry is:
+6 99999 99999 6 99999 5 2 0 
+markedAry is:
+0 0 0 0 0 0 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 7 8 7 8 8 
+bestCostAry is:
+6 99999 99999 6 99999 5 2 0 
+markedAry is:
+0 0 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 8 8 7 8 7 8 8 
+bestCostAry is:
+6 99999 99999 6 99999 5 2 0 
+markedAry is:
+1 0 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 8 7 8 7 8 8 
+bestCostAry is:
+6 15 99999 6 99999 5 2 0 
+markedAry is:
+1 0 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 1 7 8 7 8 8 
+bestCostAry is:
+6 15 11 6 99999 5 2 0 
+markedAry is:
+1 0 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 1 7 1 7 8 8 
+bestCostAry is:
+6 15 11 6 35 5 2 0 
+markedAry is:
+1 0 0 0 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 1 7 1 7 8 8 
+bestCostAry is:
+6 15 11 6 35 5 2 0 
+markedAry is:
+1 0 0 1 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 1 7 4 7 8 8 
+bestCostAry is:
+6 15 11 6 14 5 2 0 
+markedAry is:
+1 0 0 1 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 1 7 4 7 8 8 
+bestCostAry is:
+6 15 11 6 14 5 2 0 
+markedAry is:
+1 0 1 1 0 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 1 7 4 7 8 8 
+bestCostAry is:
+6 15 11 6 14 5 2 0 
+markedAry is:
+1 0 1 1 1 1 1 1 
+*****************************
+ sourceNode is: 8
+fatherAry is:
+8 1 1 7 4 7 8 8 
+bestCostAry is:
+6 15 11 6 14 5 2 0 
+markedAry is:
+1 1 1 1 1 1 1 1 

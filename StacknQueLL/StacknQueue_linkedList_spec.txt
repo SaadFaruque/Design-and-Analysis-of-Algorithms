@@ -1,0 +1,90 @@
+
+Project 1: Linked list implementation of Stack and Queue. 
+(You will implement the list in other project.) 
+
+********************************
+Language: C++ 
+
+Due Date: C++	Soft copy:  1/28/2016 Monday before midnight
+			Hard copy:  1/29/2016 Tuesday in class
+
+********************************
+I. Input: from console
+   *** To do testing, type 10 number of your choice 
+   *** Your TA will use his/her own test data to run your program.
+
+********************************
+II. Output: console output 
+
+********************************
+III. Data structure:
+********************************
+  - A class listNode
+      friend LLStack
+	friend LLQ
+	
+	- data (int)
+	- next (listNode*)
+   	- contructor (...) //create a node with given data   
+
+  - a class LLStack
+
+	- contructor // create a new stack and let top points to null
+	- top (listNode*) 
+ 	- push (S, newNode) // insert newNode at top of the stack S
+				// i.e., insert newNode at the front of linked list S.
+ 
+	- listNode pop(S) // delete the front node from S and returns the
+					// deleted front node. 
+	- bool isEmpty (S) // check to see if the stack S is empty
+	- printS (S) // print the Stack S from front to the back
+	
+  - a class LLQ
+
+	- contructor // create a new Queue with a dummy node, the data in the dummy 
+			// is set to 9999. and let both head and tail point to the dummy node
+	- head (listNode*)
+	- tail (listNode*)
+ 	- addQ (Q, newNode) // insert the newNode after the tail of Q
+	- listNode deletQ (Q) // delete the front node from Q and returns the
+						// deleted front node. 
+	- bool isEmpty (Q)// check to see if Q is empty
+
+	- printQ (Q) // print Q from front to the back including the dummy node.
+
+********************************  		
+Algorihtm steps in main (): 
+ 
+Step 1: Ask the user to select class types: 
+			Stack or Queue to do operation
+                  
+	S - for stack
+	Q - for Queue
+
+Step 2: Output to console the user's class selection
+
+Step 3: Ask the user to select methods: insertion or deletion
+	I - for insertion
+	D - for deletion
+
+Step 4: Output to console the user's method selection
+
+Step 5: 5.1: Ask the user for an input 
+	   5.2: Output to console the user's input
+	   
+Step 6: 6.1: create a new node for the user's input
+	   6.2: Perform the methods of the user's choices (class and opertation)
+
+Step 7: call print method to output the result of the operation
+
+Step 8: Ask the user if he/she wants to do another operation:
+	Y - for yes
+	N - for no
+
+Step 9: output to the console the user's choice yes or no
+
+Step 10: if the user enter N
+	    		exit program
+		else
+			repeat step 3 to step 10
+
